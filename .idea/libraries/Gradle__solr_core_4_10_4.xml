@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: solr-core-4.10.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.solr/solr-core/4.10.4/4c5c49c4c8512ec96075a73534b63a18e9184eba/solr-core-4.10.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.solr/solr-core/4.10.4/25faa43a1d305a9b340db0c450dbe48848c97bc5/solr-core-4.10.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

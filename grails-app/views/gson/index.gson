@@ -1,0 +1,17 @@
+
+import org.springframework.data.domain.*
+import org.springframework.data.solr.core.query.result.*
+import org.springframework.data.solr.core.query.result.*
+
+model {
+	def content
+}
+
+
+json {
+	content content
+}
+
+//json g.render(content)
+
+//json hal.render(content)

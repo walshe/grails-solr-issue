@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: spring-data-solr-1.5.4.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.data/spring-data-solr/1.5.4.RELEASE/63ee8968b68a7901bde1e6073859a0952b3135d8/spring-data-solr-1.5.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.data/spring-data-solr/1.5.4.RELEASE/2666b7ed2c26630c1a4454a818e097bf507a8946/spring-data-solr-1.5.4.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

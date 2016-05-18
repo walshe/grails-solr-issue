@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="271844de-2c9a-438a-aa42-2f0209983c41" name="Default" comment="" />
+    <ignored path="grails-rest-solr.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="grails-rest-solr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.96" vertical-offset="346" max-vertical-offset="1365">
+              <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GsonController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/controllers/GsonController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.9565217" vertical-offset="0" max-vertical-offset="360">
+              <caret line="3" column="94" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.gson" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/views/gson/index.gson">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+              <caret line="17" column="70" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SpringController.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/solr/SpringController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.96314496" vertical-offset="1076" max-vertical-offset="1965">
+              <caret line="124" column="10" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchService.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/services/solr/SearchService.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+              <caret line="28" column="28" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SolrContext.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/solr/SolrContext.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stemdict_nl.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/embeddedsolr/collection1/conf/lang/stemdict_nl.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.groovy" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/grails-app/init/grails/rest/solr/Application.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="grails-rest-solr" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="grails-rest-solr" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildProperties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'grails-rest-solr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles integration test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="integrationTestClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="shell" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'grails-rest-solr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="schemaExport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'grails-rest-solr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'grails-rest-solr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Groovydoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="groovydoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes integration test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processIntegrationTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="integrationTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'grails-rest-solr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="pathingJarCommand" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="console" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileGsonViews" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="mergeTestReports" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles integration test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileIntegrationTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="urlMappingsReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the test Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'grails-rest-solr'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'grails-rest-solr'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'grails-rest-solr'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the integrationTest Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileIntegrationTestGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles the main Groovy source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileGroovy" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="pathingJar" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../LSE/coursefinder-grails-angular" value="1458213156000" />
+        <entry key="$PROJECT_DIR$/../../../LSE/coursesearch" value="1457965856000" />
+        <entry key="$PROJECT_DIR$/../../../LSE/coursesearchgrails" value="1458145662000" />
+        <entry key="$PROJECT_DIR$/../../../cassidian/ActivationManager" value="1425301486000" />
+        <entry key="$PROJECT_DIR$/../../../cassidian/IntegrationPlatformCommons/gradle" value="1396601468000" />
+        <entry key="$PROJECT_DIR$/../../../cassidian/RegistryProvider" value="1427291775000" />
+        <entry key="$PROJECT_DIR$/../../../cassidian/TetrapolProvider" value="1425911689000" />
+        <entry key="$PROJECT_DIR$/../../../grails3.1.3/blogger" value="1457030737000" />
+        <entry key="$PROJECT_DIR$/../../../grails3.1.3/restapp-no-restapi" value="1457029321000" />
+        <entry key="$PROJECT_DIR$/../../../grails3.1.3/testapp" value="1457017827000" />
+        <entry key="$PROJECT_DIR$/../../../grails3.1.3/testxxx" value="1457049039000" />
+        <entry key="$PROJECT_DIR$/../../../grails3/beanstalkapp" value="1454063612000" />
+        <entry key="$PROJECT_DIR$/../../../grails3/grails-with-spock" value="1457011994000" />
+        <entry key="$PROJECT_DIR$/../../../grails3/interviewapp" value="1457011994000" />
+        <entry key="$PROJECT_DIR$" value="1463577568000" />
+        <entry key="$PROJECT_DIR$/../../grails-solr" value="1463566899000" />
+        <entry key="$PROJECT_DIR$/../../../interview/lse" value="1457089600000" />
+        <entry key="$PROJECT_DIR$/../../../polymorph/mbank-jqm" value="1384938825000" />
+        <entry key="$PROJECT_DIR$/../../../viabill/grails-rest-api-app" value="1455623905000" />
+        <entry key="$PROJECT_DIR$/../../../viabill/restapp" value="1455033418000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/hibernate4/5.0.5/dfd4f8278cbf00dbd71681e4e155b981d514422b/hibernate4-5.0.5-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/hibernate4/5.0.5/208f362d1ebc3b97ff0444d89da82b5e65f687b3/hibernate4-5.0.5.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.6/374c945163de9e06b680d4e119110d262b841d6f/groovy-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.6/844cb06c553a5e6a736f44aa2b67d25bf6a34fde/groovy-2.4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.16/974c5dd98f38036bd98b3a8f7bf00ee0d91adbdd/slf4j-api-1.7.16-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.16/3a6274f658487d5bfff9af3862beff6da1e7fd52/slf4j-api-1.7.16.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.16/7ee69aec8f8a5f533c8e883ff418baeb21a7412/jcl-over-slf4j-1.7.16-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.16/34e48073884704ac987d3d1a1ab9b60e62028a9/jcl-over-slf4j-1.7.16.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-bootstrap/3.1.6/47efe46b5022d1457b4eeaecb6fc81d3fccb17c4/grails-bootstrap-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-bootstrap/3.1.6/ce1282dc948997bce8e59a7d55d5819d3bfcfb27/grails-bootstrap-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-simple/5.0.5.RELEASE/f4830d70d7647411ee3fc7dfb9fd891da3d4a5ff/grails-datastore-simple-5.0.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-simple/5.0.5.RELEASE/b0703568229e91bdca0379f6942fe6257a3b97e9/grails-datastore-simple-5.0.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/5.0.5.RELEASE/6bade8496b0a762f3b73c33030b58e92c409e373/grails-datastore-gorm-support-5.0.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-support/5.0.5.RELEASE/a50c50300ed1602383183842fbee28391edefe59/grails-datastore-gorm-support-5.0.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-hibernate4/5.0.5.RELEASE/29e3f30786e9a564711edab0699e12357f956854/grails-datastore-gorm-hibernate4-5.0.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-hibernate4/5.0.5.RELEASE/9795c8c23871086f9adb31201da73a5b494313fc/grails-datastore-gorm-hibernate4-5.0.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/ant/ant/1.9.4/ant-1.9.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-ant/2.4.6/e681ff3c2c99c898e1515503547b414e6816330f/groovy-ant-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-ant/2.4.6/77fc24973dd4205d3cd2d6707b39c8ea9e0aa624/groovy-ant-2.4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.6/920f6e57c466d2535e51daba402c26a8b8467471/groovy-json-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-json/2.4.6/febbfa4834eb8093f80281b1242c893c64761580/groovy-json-2.4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.6/7593c1d9a2fc6e968c2bfb13fb049e0c201bbf36/groovy-xml-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-xml/2.4.6/60ed82a5601931c5b560bece47d6fd98b36e7a4f/groovy-xml-2.4.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/yaml/snakeyaml/1.16/snakeyaml-1.16.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-core/5.0.5.RELEASE/cc050a93c4765f9f3c832f2bcffa34489fd6e8a3/grails-datastore-core-5.0.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-core/5.0.5.RELEASE/f770348b17087e4a905fa43a92fbc9b45cc0e475/grails-datastore-core-5.0.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm/5.0.5.RELEASE/b74af0966a56ebfc1eacdd97dc123326d3fbb8fe/grails-datastore-gorm-5.0.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm/5.0.5.RELEASE/453015da3ab9915bb87949a439ea4abbad150b63/grails-datastore-gorm-5.0.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-core/3.1.6/5a112f1484c35250f2a870282d877d7da334c8fc/grails-core-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-core/3.1.6/a5e943d8fb27b860bb2f267d0ff6fc52efdcdb5c/grails-core-3.1.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-hibernate-core/5.0.5.RELEASE/36e48f176717eae849b81ffe51bff30646627e32/grails-datastore-gorm-hibernate-core-5.0.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-datastore-gorm-hibernate-core/5.0.5.RELEASE/8383f1d3333d2f2837d03a7fda576fbc9c43aad3/grails-datastore-gorm-hibernate-core-5.0.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/4.3.11.Final/hibernate-core-4.3.11.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/b02d7b80cdadbfc51106252238fc1a667c8287eb/hibernate-validator-5.2.4.Final-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.hibernate/hibernate-validator/5.2.4.Final/fb18766b576aa6632bcfe9a20a023cbd52bf9769/hibernate-validator-5.2.4.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/ant/ant-launcher/1.9.4/ant-launcher-1.9.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovydoc/2.4.6/89ec98a116918630081b5ecf038eae3f707eb685/groovy-groovydoc-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-groovydoc/2.4.6/8ff8fae45749021dd10d2cb3a5c5662a6c277881/groovy-groovydoc-2.4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.ant/ant-antlr/1.9.4/9e7f3397340319f7c37a8205b00744ea3587d75c/ant-antlr-1.9.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.ant/ant-antlr/1.9.4/4cf30025981dc2344324a0ef0e40063c3ef08f0a/ant-antlr-1.9.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.ant/ant-junit/1.9.4/c896696079fc83acc88306dcbaff13a8227422e3/ant-junit-1.9.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.ant/ant-junit/1.9.4/b063757dacaa716b643c2f9270e469183636ff11/ant-junit-1.9.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.1/httpclient-4.5.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.5.RELEASE/86b9af475e134ba9f5c3843f33ff3ecd6cf95883/spring-core-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.5.RELEASE/251207b29f0f38f61e3495a2f7fb053cf1bfe8c/spring-core-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.5.RELEASE/6135730c939697c15f33f092a64396bb21d6ba0e/spring-beans-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-beans/4.2.5.RELEASE/fa992ae40f6fc47117282164e0433b71da385e94/spring-beans-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-tx/4.2.5.RELEASE/424b0f6388fd0778648b67deeeb9250f84e1fbb8/spring-tx-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-tx/4.2.5.RELEASE/7395321fe937272d9b781a13985e04ab2dcd6210/spring-tx-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.5.RELEASE/8bcd5b15133bb5423cdc9f33da7e4ac585fd783a/spring-context-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-context/4.2.5.RELEASE/a75e18322c7b362fe1daa26a245ae672ec0f3138/spring-context-4.2.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/transaction/jta/1.1/jta-1.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-validation/3.1.6/34e46c80327529c5a2e11cf64fe336c00056291/grails-validation-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-validation/3.1.6/e064d5cbf6ba829f91af22253c6cfc689aeb0f56/grails-validation-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-async/3.1.6/f49428591a84b415f37ee26060689103293e08c9/grails-async-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-async/3.1.6/7114b136d32d3344e572c44bb7e184423e396391/grails-async-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.3.RELEASE/5e9756091cc536ab48a7f98bdb551f4246c4ed0d/spring-boot-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.3.3.RELEASE/641cc375499d444e4efbc1801902260daa79758d/spring-boot-1.3.3.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/antlr/antlr/2.7.7/antlr-2.7.7.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.5.RELEASE/8f0aaf6080b3a6d6cb7c52865ecef98b97a55f0b/spring-jdbc-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.5.RELEASE/205d2f1b902eac16a2ece772dc5ac6090b7e0b6f/spring-jdbc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-orm/4.2.5.RELEASE/30e26c9f41924d5a91a33855f01b8c8028917cd5/spring-orm-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-orm/4.2.5.RELEASE/60625981b837ba93e603d3068d69c6397ecb3ad2/spring-orm-4.2.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/classmate/1.1.0/classmate-1.1.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.6/3cac66103fe035daeb1f767e1db4bbb607fdf5b/groovy-templates-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-templates/2.4.6/9382365413168bc255f4cc356e1294e34d1c431e/groovy-templates-2.4.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-validator/commons-validator/1.4.1/3468e8700290d6056aa50e4e010abc627e78bab/commons-validator-1.4.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-validator/commons-validator/1.4.1/2231238e391057a53f92bde5bbc588622c1956c3/commons-validator-1.4.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.gpars/gpars/1.2.1/61e3b84acc89749433c61b1f83d4fdd7652314fa/gpars-1.2.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.gpars/gpars/1.2.1/c3ea0fbcd67a163bd5e3a3efdaa3428262d0d437/gpars-1.2.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor/reactor-core/2.0.7.RELEASE/8194a51178b3b28969cd33b197662e665e89297a/reactor-core-2.0.7.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor/reactor-core/2.0.7.RELEASE/3f7190ff62e6d8cefa8a832f64140387e473fb41/reactor-core-2.0.7.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor/reactor-stream/2.0.7.RELEASE/cf0005ec1abdd9d0848ca875e8053c6566e7410b/reactor-stream-2.0.7.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor/reactor-stream/2.0.7.RELEASE/5c8d4486a6f17177a5411ae195ba68ab02f75759/reactor-stream-2.0.7.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/codehaus/jsr166-mirror/jsr166y/1.7.0/jsr166y-1.7.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/5be7bd3f38e43c8fc83699bbb5328c62adb95bbf/reactive-streams-1.0.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.3.RELEASE/46f42c0459e97ad98fef282e9c3ad4899925c666/spring-boot-starter-logging-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-logging/1.3.3.RELEASE/16b395c84f28b947f1c336aa461fda1e662bb3b6/spring-boot-starter-logging-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.3.RELEASE/4cd398d2642324046f156929cd891dbfe822e0d3/spring-boot-autoconfigure-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.3.3.RELEASE/e7a4a25f74dac6b335ffabc43e3e8a6e3066340e/spring-boot-autoconfigure-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.3.3.RELEASE/ab660517cd9a2494c6e853210858aa1120a11fa1/spring-boot-starter-actuator-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-actuator/1.3.3.RELEASE/ec15d8ba682e5e287a6d8cb1299ca69214a46530/spring-boot-starter-actuator-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.3.3.RELEASE/8ff5d5d0f6e19fc8e98d75396b030c11a4e77b4a/spring-boot-starter-tomcat-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-tomcat/1.3.3.RELEASE/541468d85cc2c94d2b538b0fa07c018847bb9b78/spring-boot-starter-tomcat-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-url-mappings/3.1.6/11af87837cc1f83bfd0973d7c9d6cedc5807a6e4/grails-plugin-url-mappings-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-url-mappings/3.1.6/14862f849deebcdff4fbbf4421a5d694c6058b85/grails-plugin-url-mappings-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.1.6/375673a261687f6e8264e75c0920ea7d48d61570/grails-plugin-rest-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-rest/3.1.6/dfa6d44ca762bb53923aa9fba7dbaf7c8ee0bf19/grails-plugin-rest-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.1.6/7de4c8335d6e46fe824b1a3d4ba7f0289d6ab4d3/grails-plugin-codecs-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-codecs/3.1.6/1c49018adb5f2e2d13dc1b44143cae9effd021f2/grails-plugin-codecs-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.1.6/dac3a2998009bd1806f6a916aa33e8983af5ab9d/grails-plugin-interceptors-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-interceptors/3.1.6/1c830db681d4276ee3688898a3367d2dea04ca19/grails-plugin-interceptors-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.1.6/40438b5333edcc510a698667af3ae87e0f7fe3fc/grails-plugin-services-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-services/3.1.6/a4e776a81fb9dfa4be7c77b1dd57498ade51bd77/grails-plugin-services-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-datasource/3.1.6/3efc4927c21016936de29fd70030a3ba987de634/grails-plugin-datasource-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-datasource/3.1.6/e293ca211b5eecbb235407470c5475c2aa39c97b/grails-plugin-datasource-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-databinding/3.1.6/b8188558df8f85a77eeb1c019cd91167225ac291/grails-plugin-databinding-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-databinding/3.1.6/70c01312599155d92b46efcf9d55699b56016392/grails-plugin-databinding-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.1.6/11d1cac11b316213bc19fc7382e5e45fb959a707/grails-plugin-async-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-async/3.1.6/1ad68e0ec82bd8003cb6536628fdaf6c8e094f82/grails-plugin-async-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-boot/3.1.6/dc9820b7f2fe346788862652b5789f4a45139c74/grails-web-boot-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-boot/3.1.6/7271ab9dcdf6f4b9a05eba90d1a2a549b67025e5/grails-web-boot-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-logging/3.1.6/1065f468875b1ee2cbf374d3ac42df973a4110f6/grails-logging-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-logging/3.1.6/5d0a6d73996afde97ddf38ffa45f724e458de0f7/grails-logging-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.2/da572a71f5459f27e4a609a20fc9c8cb4776e78f/cache-3.0.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/cache/3.0.2/519bc1bffb2afa10c93b92e872d49a5238e96558/cache-3.0.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.hibernate/hibernate-ehcache/4.3.11.Final/3023d4dd3078670512d0946b7969b0fccf606fd3/hibernate-ehcache-4.3.11.Final-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.hibernate/hibernate-ehcache/4.3.11.Final/cea0e6aba102c00cf899bd547c338fcf54468433/hibernate-ehcache-4.3.11.Final.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/views-json/1.0.9/ad748d19b3942a439cb571fea864eb1e7b7c87df/views-json-1.0.9-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/views-json/1.0.9/d74c8bd0bd51e31131851fe332285879ee1d4df7/views-json-1.0.9.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-solr/1.3.3.RELEASE/48e9b5cbd94c7cf9bbb7d5d1ad6055db8c910e34/spring-boot-starter-data-solr-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-solr/1.3.3.RELEASE/2296ac92ae3a366ef011abfa80a53123eae430ce/spring-boot-starter-data-solr-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.solr/solr-core/4.10.4/25faa43a1d305a9b340db0c450dbe48848c97bc5/solr-core-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.solr/solr-core/4.10.4/4c5c49c4c8512ec96075a73534b63a18e9184eba/solr-core-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.5/4372823823e22954aea97fb0bd27c4c0dba0ede/logback-classic-1.1.5-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.1.5/92353eb144695bba80b31f7bec4f36d871f230ac/logback-classic-1.1.5.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.16/284459a82b70a3650489ca44ee01e5fad7d62319/jul-to-slf4j-1.7.16-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.16/2d5b546c5557dcbf08c3a381d7dc9bd275a602c1/jul-to-slf4j-1.7.16.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.16/ebedc4e50e0eeaa6e6b4ad5f1b69089099301cc6/log4j-over-slf4j-1.7.16-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.16/c5922f37c8a5e4377cfb543c549f10e73d72ede0/log4j-over-slf4j-1.7.16.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/xalan/serializer/2.7.2/fe9c3d37a49238fac9d4d6c4f5bbd8c334da787a/serializer-2.7.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/xalan/serializer/2.7.2/24247f3bb052ee068971393bdb83e04512bb1c3c/serializer-2.7.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4.2/c23bcd315a38add461b942c9bb529ae260ff897c/concurrentlinkedhashmap-lru-1.4.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.googlecode.concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.4.2/2eaf3d3c9746d526ff7e5b93931d482c3887e6ac/concurrentlinkedhashmap-lru-1.4.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-spring/3.1.6/f7a6fdc5e6e3485ec6e2304d0b72c91fe6b0f5e6/grails-spring-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-spring/3.1.6/bb961dca4f310de7bfadc7d677bed1025ffaa814/grails-spring-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.3.RELEASE/d205c7b607ec58295ef8e5b2fddfcb756b9cb3bf/spring-boot-starter-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.3.RELEASE/e4a71ce6ae8e42a7535dd9f1a39f91d36c538f28/spring-boot-starter-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.3.3.RELEASE/ac6730132c6d23dae716a2ea4a0ed68ae7e05708/spring-boot-actuator-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-actuator/1.3.3.RELEASE/7f1ae26c1ea42fb9dd5f14925cd605198f8b644/spring-boot-actuator-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.32/ecbf6e03299d1aac179b2003ec500397ce1f15b8/tomcat-embed-core-8.0.32-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.0.32/734ead0c803525cc9c7f283438101734ca9aac01/tomcat-embed-core-8.0.32.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.32/acc238ee9c71aa2a5048375e38262adb7fb3680d/tomcat-embed-el-8.0.32-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-el/8.0.32/82adf8bd959fc046d55490e6f2ce67297c91d62b/tomcat-embed-el-8.0.32.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.32/b18bfdec592fb810fc4ea200753ccc4af288d3a5/tomcat-embed-logging-juli-8.0.32-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-juli/8.0.32/5e664b357710a6c43cad2191404c2a9d0b82cdb3/tomcat-embed-logging-juli-8.0.32.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.32/7ad815be1848218d138e4debbf08ce2fcd6826a5/tomcat-embed-websocket-8.0.32-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-websocket/8.0.32/237ca58dac66f438579750169e6cb297ac041c9d/tomcat-embed-websocket-8.0.32.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web/3.1.6/368785425a76ad09134cfb21a72481621dde7660/grails-web-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web/3.1.6/b51a11b4775d0824175d1c4a836662e64997189f/grails-web-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.1.6/77ebb154afcd86e3d706a136e60b70911815d3ca/grails-plugin-controllers-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-controllers/3.1.6/abb35e270ff21a496c6652a4a5b34302f4cf8105/grails-plugin-controllers-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-codecs/3.1.6/fc1206f19f5a639333f5d99cd85935c230402ce7/grails-codecs-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-codecs/3.1.6/34118eb5321083087204afdcc9d1f06cc9df7189/grails-codecs-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-converters/3.1.6/6bdab09e7119ee1a98aae7411a8970de4db1491/grails-plugin-converters-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-converters/3.1.6/decb9d00e3f37f51620d6cf38ea8a1ec6a7f141c/grails-plugin-converters-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-encoder/3.1.6/b500a43838f937900456c3f3d79b3b6cf37453ae/grails-encoder-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-encoder/3.1.6/d32615660486ac71b66aeb1ab0e8c56ecc16b73f/grails-encoder-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-events/3.1.6/8df684ae614914fd78d9d99eb5aadf00a99396bc/grails-plugin-events-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-events/3.1.6/58d260bc39946204ec139a79d5723d99bbfa5049/grails-plugin-events-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-log4j/8.0.33/3284737950e8a345e7242d4e0cae1a8234496866/tomcat-embed-logging-log4j-8.0.33-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-logging-log4j/8.0.33/2607f5b35f7641042414f76cdf2a9d5ec8033294/tomcat-embed-logging-log4j-8.0.33.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-sql/2.4.6/f999ddba280d27bcf68b1c3a02e3ae791199ee62/groovy-sql-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-sql/2.4.6/cd366c813eea35552ead52f07b64c59375b81dc6/groovy-sql-2.4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.32/18a4ab8847c1cb6b5c55914bc55d9e302aa5874a/tomcat-jdbc-8.0.32-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.32/55396c45fc8c34f31420a3b280fde4b1387b044d/tomcat-jdbc-8.0.32.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-common/3.1.6/91c24fd2e86abc5e5409015b8fc648c3099c1bc/grails-web-common-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-common/3.1.6/57fa5adf7122f0756113cca62f77fb4479734a27/grails-web-common-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.4.3/feb524620a8697865caa581a51a2e0921620b71c/ehcache-core-2.4.3-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sf.ehcache/ehcache-core/2.4.3/fd258ef6959f27fb678b04f90139ded4588e2d15/ehcache-core-2.4.3.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/views-core/1.0.9/ca8f6733159ba9782e43058bd5c457b97a4c6bbc/views-core-1.0.9-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/views-core/1.0.9/532e259ca67525940a48b5b7b55a32ae7041855e/views-core-1.0.9.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.solr/solr-solrj/4.10.4/d73eb90ab371b9c4f9581983413433218725f97/solr-solrj-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.solr/solr-solrj/4.10.4/9215a9a26717ef54725d1934bf6a50908f4dfe16/solr-solrj-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.data/spring-data-solr/1.5.4.RELEASE/2666b7ed2c26630c1a4454a818e097bf507a8946/spring-data-solr-1.5.4.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.data/spring-data-solr/1.5.4.RELEASE/63ee8968b68a7901bde1e6073859a0952b3135d8/spring-data-solr-1.5.4.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.1/2aab83661676c842d50995fe934550e3e23b3c6/httpmime-4.5.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.1/96823b9421ebb9f490dec837d9f96134e864e3a7/httpmime-4.5.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-common/4.10.4/e3cbf819bec80350c41cc9fe10917dacf5828ee0/lucene-analyzers-common-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-common/4.10.4/438dca3789b04735fe6b223d4aded3561fc5c039/lucene-analyzers-common-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-kuromoji/4.10.4/279e481aaa9779f8761cbcbae6411869153453ac/lucene-analyzers-kuromoji-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-kuromoji/4.10.4/34ab2cad50d7ed45890f38d60153aba52b87f241/lucene-analyzers-kuromoji-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-phonetic/4.10.4/64c20acef49e64e0f66fa2e0dd1e685d85959d92/lucene-analyzers-phonetic-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-analyzers-phonetic/4.10.4/42d0676495cbb9f0cd6a67ddd8d5e100b9e26199/lucene-analyzers-phonetic-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-codecs/4.10.4/8fc5469b6f968c65e74a22dd90207e07b52aaf78/lucene-codecs-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-codecs/4.10.4/7c5f25bce5f91aea6932f9095af5dab0e8add6/lucene-codecs-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/4.10.4/e4c2a4817bc3d7942bb650eaa1cad20d51631edb/lucene-core-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-core/4.10.4/cbdb5f686a85e391d9b88f0bae9e018f4d9472ff/lucene-core-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-expressions/4.10.4/be14c41841685b26a374a8a44c5d43b099298a8c/lucene-expressions-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-expressions/4.10.4/1cbc525f9442904ae2531f655315542373a8b2fc/lucene-expressions-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-grouping/4.10.4/af218a402cf6c634d2fa430df58b92223cf808de/lucene-grouping-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-grouping/4.10.4/bb60a4aa452d2783584c0b2e832564741b88f8f5/lucene-grouping-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-highlighter/4.10.4/896f477d43f43b9495fd463b8c888e29c1a9822f/lucene-highlighter-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-highlighter/4.10.4/8ceadd928c9d8efef7b069fd850f25db42fbec8b/lucene-highlighter-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-join/4.10.4/e184a825d2a3ba794972cec1c4902d88e915ae56/lucene-join-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-join/4.10.4/abc55f0284b01a23cf41422f3596bc1fba06701b/lucene-join-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-memory/4.10.4/273297eef6f081b2565e15195ea8083c7c4e5ced/lucene-memory-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-memory/4.10.4/d80858a3954435b5c731a24945505b99bd5c159c/lucene-memory-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-misc/4.10.4/dd1e2c1d27ba45ff7fd96cfba9c0223f8621be09/lucene-misc-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-misc/4.10.4/1dea0f279c158875b2374bc03fb7b502b559ea84/lucene-misc-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-queries/4.10.4/58c754e8724b05d0fc97250dab0284240327b02e/lucene-queries-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-queries/4.10.4/f3b55bc9553d622760b585550ffa6dbd082f32f3/lucene-queries-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-queryparser/4.10.4/4711e3fe5e31662f64d36cfe522b29c94502cb37/lucene-queryparser-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-queryparser/4.10.4/432d1e1b0aa99695bcaadf49c380c87b17a6f01b/lucene-queryparser-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial/4.10.4/b1a3719cf2e0a3ff3f9e4aff3765085a110cf2fd/lucene-spatial-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-spatial/4.10.4/79ac88a4f91125f47a1a8e28fffae9860e7b3ca6/lucene-spatial-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-suggest/4.10.4/1146d903a72862cf3a2938da117265cfdb264d9a/lucene-suggest-4.10.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.lucene/lucene-suggest/4.10.4/9a1b5e1974fe61e16d78e8a5b26f802cb2fb9863/lucene-suggest-4.10.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.carrotsearch/hppc/0.5.2/881acc97fcf10f1e922cbeac2a5c20b72fd92fb3/hppc-0.5.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.carrotsearch/hppc/0.5.2/74bcc9d152a928a4ea9ac59a5b45850bf00cd4e/hppc-0.5.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.google.guava/guava/14.0.1/169f11e28e3ed9a64e9fa895eaafb579e6a5aa6c/guava-14.0.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.google.guava/guava/14.0.1/69e12f4c6aeac392555f1ea86fab82b5e5e31ad4/guava-14.0.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.5.0/7a27a7fc815e481b367ead5df19b4a71ace4a419/protobuf-java-2.5.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/2.5.0/a10732c76bfacdbd633a7eb0f7968b1059a65dfa/protobuf-java-2.5.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.spatial4j/spatial4j/0.4.1/c51cd6b83293a5e26993bd9848e2766654dfdddb/spatial4j-0.4.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.spatial4j/spatial4j/0.4.1/4234d12b1ba4d4b539fb3e29edd948a99539d9eb/spatial4j-0.4.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.2/commons-cli-1.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-configuration/commons-configuration/1.6/2d24067548bf9022d03cfd6ca302e1f6c5d4936/commons-configuration-1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-configuration/commons-configuration/1.6/32cadde23955d7681b0d94a2715846d20b425235/commons-configuration-1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.2.1/eded3ff1ed6dff680af4a8c31a5a187536aed126/commons-fileupload-1.2.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.2.1/384faa82e193d4e4b0546059ca09572654bc3970/commons-fileupload-1.2.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-io/commons-io/2.3/commons-io-2.3.jar" />
+                            <option value="$MAVEN_REPOSITORY$/joda-time/joda-time/2.8.2/joda-time-2.8.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5/7dd13aa2cc4e3cb4d0e068b139b318d0988d7642/antlr-runtime-3.5-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5/baa82bff19059401e90e1b90020beb9c96305d7/antlr-runtime-3.5.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-annotations/2.2.0/16cdbacf263b891b1aed8a0a02b35df83e9c77e4/hadoop-annotations-2.2.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-annotations/2.2.0/ebd95f271e3bce5c0dca5926bb3eb36530cd9ab6/hadoop-annotations-2.2.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-auth/2.2.0/b472a065fb1ef045ecb452dbc7788b555ca38ec0/hadoop-auth-2.2.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-auth/2.2.0/74e5f8b2134be51312c004d29e33a7bf4377ce20/hadoop-auth-2.2.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-common/2.2.0/d7e52ab002a7c3a4b3dd8a84f2870aa7df054ca5/hadoop-common-2.2.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-common/2.2.0/a840350e4a1f5483f949ec5e72cfa2c6b2b3cf94/hadoop-common-2.2.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-hdfs/2.2.0/4e622cdd54fdf17adde473e341ab425cbbd3738d/hadoop-hdfs-2.2.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.hadoop/hadoop-hdfs/2.2.0/f2686b55818b9bae3e16d33a3f205a388920aa34/hadoop-hdfs-2.2.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.zookeeper/zookeeper/3.4.6/10cb14f3893f8bdcaf4e2619a9a1f6b9cedec6b7/zookeeper-3.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.zookeeper/zookeeper/3.4.6/1b2502e29da1ebaade2357cd1de35a855fa3755/zookeeper-3.4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.woodstox/wstx-asl/3.2.7/1908d3646b9057f242cfad6d038e19a27715b36d/wstx-asl-3.2.7-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.woodstox/wstx-asl/3.2.7/252c7faae9ce98cb9c9d29f02db88f7373e7f407/wstx-asl-3.2.7.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.2.15.v20160210/680d467fee435517f1fcb226098f1701cea1885f/jetty-continuation-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.2.15.v20160210/59ea4da32762ce7f844d8a0d10a334f3e70e3f6a/jetty-continuation-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-deploy/9.2.15.v20160210/c7c72391d719c4a7d1aa7964bdbb67461a33ecf6/jetty-deploy-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-deploy/9.2.15.v20160210/d4f2abd87618c4cde01a7bd4d4c8efcbd1305695/jetty-deploy-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.15.v20160210/7d632daadcc2f86f394fe3811fef5fb2a5a14440/jetty-http-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.15.v20160210/5b1f9d51b7be45c8cded46965e00c247533a14fe/jetty-http-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.2.15.v20160210/b620a050ebd7e23d66e9cb656f62803a6836aa87/jetty-io-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.2.15.v20160210/5a3af41803c12b0f3628ed8927a8cedb42972169/jetty-io-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jmx/9.2.15.v20160210/7b629d8f517e1f3c3afb895f0958f5fc3a4e3949/jetty-jmx-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jmx/9.2.15.v20160210/506524443ac29b5ff0381396a3c41a7a4bdf2a8d/jetty-jmx-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.2.15.v20160210/ecd0818ea3b108270745f05925596a57f02708/jetty-security-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.2.15.v20160210/fbc43e32706a086d138dc16c4be7f3a0caf0e419/jetty-security-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.2.15.v20160210/8e015a667bf4837aee7394b94678771f9fdebfba/jetty-server-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.2.15.v20160210/d1d354d811e3a0ed4464866cf8248a884ec6c431/jetty-server-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.2.15.v20160210/ff7f93b3688630f8fe9b0a0bb2b371b1fed57de1/jetty-servlet-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.2.15.v20160210/17fd3313e5e83b48b91394cc32bf90e09fa6eacf/jetty-servlet-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.2.15.v20160210/2f21a8bdfcf4bde1ae1600ddfd498abb305d4227/jetty-util-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.2.15.v20160210/ccd245541cc63311bdcfe551525bd7d82ea5e92c/jetty-util-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.15.v20160210/534608831883371c0b2d550c584c5dc06ad4a3d7/jetty-webapp-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.15.v20160210/3bd2fcdd1a061fc683bf18f00f7984b12a23a70e/jetty-webapp-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.2.15.v20160210/ba6c8e43f2bccbd896a293cc6844b71b069393a6/jetty-xml-9.2.15.v20160210-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.2.15.v20160210/ecd921c5eb140d77323eb60feab14fdde700d425/jetty-xml-9.2.15.v20160210.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/15c914135cf30177b83c321250c458396289cd37/javax.servlet-3.0.0.v201112011016-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/javax.servlet/3.0.0.v201112011016/aaaa85845fb5c59da00193f06b8e5278d8bf3f8/javax.servlet-3.0.0.v201112011016.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.noggit/noggit/0.5/24354bb3b00ff1acb7df7947deac604503d22c1c/noggit-0.5-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.noggit/noggit/0.5/8e6e65624d2e09a30190c6434abe23b7d4e5413c/noggit-0.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/ow2/asm/asm/4.1/asm-4.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/4.1/asm-commons-4.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.restlet.jee/org.restlet/2.1.1/3c1dfe4133a4a986754d001df518e5fbcd14311e/org.restlet-2.1.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.restlet.jee/org.restlet/2.1.1/e12c23b962c925f2681729afa1e40066a350ad27/org.restlet-2.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.restlet.jee/org.restlet.ext.servlet/2.1.1/cb585f8d1c558fdcda4ff6b80cc397334f957f81/org.restlet.ext.servlet-2.1.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.restlet.jee/org.restlet.ext.servlet/2.1.1/72baf27dc19d98f43c362ded582db408433373ee/org.restlet.ext.servlet-2.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.5/a920a1f85c501420332e867740ea5ae648655da7/logback-core-1.1.5-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.5/16722afde74444716e299bee1f60aec9f6d1f0dc/logback-core-1.1.5.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.5.RELEASE/436d3d6181bbf498d8409525b449eb4ed94a2c5f/spring-aop-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.5.RELEASE/858d6c70909b3ce7e07b59fc936f8ccfcd81c0aa/spring-aop-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.5.RELEASE/c55ae1e0e6858098c2b2b22a7a9638d6cd76db8d/spring-expression-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-expression/4.2.5.RELEASE/a42bdfb833d0be6c18429aea3fb0fba81f85c6e8/spring-expression-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.5.RELEASE/6d6268e82b35921d9daf4cfda9a2f1bd99afd87a/spring-web-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-web/4.2.5.RELEASE/49cd2430884b77172aa81e3fc33ef668ea1dab30/spring-web-4.2.5.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.2.5.RELEASE/b51d72d594f6a50607791820049fc3eb61483b36/spring-aspects-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.2.5.RELEASE/ed09517441a276db2a7e0e7b60a390c52b8093af/spring-aspects-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.8/80b7f0a3ae95f1fa7c75733a38961eaa14546d61/aspectjrt-1.8.8-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.8/7c5b26f24375685e34a50c2d765ebc40a96a5280/aspectjrt-1.8.8.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.8.8/aspectjweaver-1.8.8.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.1.6/b36b5086172d2309b4da9bd93e58727cd3201bb9/grails-web-gsp-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-gsp/3.1.6/96cbf1cf55b4e7146a691710a98e1430cc65ee42/grails-web-gsp-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.1.6/d5fc798c307fefcca9622dac65e991bbba03c9ad/grails-web-databinding-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-databinding/3.1.6/c1cf170b586826104e66c558da003b42af5b122/grails-web-databinding-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.6/b8a18be54516ccff7ce3679d64664e6f14a6801e/grails-web-url-mappings-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-url-mappings/3.1.6/54f3f320f99ff6fe407680488214b175cf6cc9fa/grails-web-url-mappings-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-jsp/3.1.6/f1bd18de9e507d1d32bd7682d528c1a4d304ad40/grails-web-jsp-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-jsp/3.1.6/1cf89e67e28fea6d2b99ce83d6b56a3a1692fe67/grails-web-jsp-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-mvc/3.1.6/91abcd1e0321203614b09ce96d552776bb81fde7/grails-web-mvc-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-mvc/3.1.6/a1aa23be9780887adc6efc32fca673ae61e9a157/grails-web-mvc-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-sitemesh/3.1.6/6cbfd5928aa8fa7b2eaa3988bcef767dae4538c5/grails-web-sitemesh-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-sitemesh/3.1.6/af525ee0a9f406b9576f37481903d5716f8b5ab4/grails-web-sitemesh-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-i18n/3.1.6/8ac25dc899ef852fd83446dd62d3716964bb730f/grails-plugin-i18n-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-i18n/3.1.6/3565c9ba6d578f1222f8547a7280493849004b/grails-plugin-i18n-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-mimetypes/3.1.6/c27196154f4d6093e6bfeeeca040ed8bfc548cac/grails-plugin-mimetypes-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-mimetypes/3.1.6/3f4f23e8c894113971e4b6654941aff0c50a3d47/grails-plugin-mimetypes-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/3.1.6/2f0931d992634f149267952d7acf55a03b99b72a/grails-plugin-validation-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-validation/3.1.6/fc7757d32d679420558d142ec5531620b482a38a/grails-plugin-validation-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.1.6/a921e840207801cfcd150b70a267d0920ca66118/grails-plugin-domain-class-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-plugin-domain-class/3.1.6/c7116dba3c877c8f901ef0204179a3c492c6fda4/grails-plugin-domain-class-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-context/2.0.7.RELEASE/c0f3c57ef78c4faa6aedae41011a9e4ffe86114f/reactor-spring-context-2.0.7.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-context/2.0.7.RELEASE/ca4285a0a0ab9d1f39953c086bfcfc5883c06c32/reactor-spring-context-2.0.7.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor/reactor-bus/2.0.7.RELEASE/4f2f2e58d68713aa6f57935c5904eb7740791ecf/reactor-bus-2.0.7.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor/reactor-bus/2.0.7.RELEASE/8b83ef6c665ae3499f23fbc7bca5cb8c321a71c4/reactor-bus-2.0.7.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.32/7f3ddcb5c29c1d79f985e881c39c09a7f4705401/tomcat-juli-8.0.32-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.32/71471069cea029dfdce0735337864c7d0a3d9992/tomcat-juli-8.0.32.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-databinding/3.1.6/48eebdfd8189933a66b54f6bc43510681e98cbbb/grails-databinding-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-databinding/3.1.6/31edcee94706b5e3b95a9d4547fd66b92190526a/grails-databinding-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-gsp/3.1.6/6ed373fd6396d9a344dd7c5848e0e8f7b996a367/grails-gsp-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-gsp/3.1.6/1e1ed237a728b76e310d28be44ace96523a35934/grails-gsp-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.5.RELEASE/4defda95bd56638dee17b63637f50dc8be771283/spring-webmvc-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.2.5.RELEASE/cf463cce3e4453eb4b9a69de2dcdfd60c3c57e0/spring-webmvc-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-context-support/4.2.5.RELEASE/fc1909a46540ac15e8accb3ed0620c32936372eb/spring-context-support-4.2.5.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework/spring-context-support/4.2.5.RELEASE/72db9c52e8bd2dc3290cd51114583731f818356b/spring-context-support-4.2.5.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/563dcb685903c96ce8abbd03adf7fa49e19aa8b4/gson-2.3.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.4.RELEASE/1080d362b6e9234ac46f008e38eb119609e34c91/spring-data-commons-1.11.4.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.4.RELEASE/c2b1fd4dbf7dff772d6124bb35892759e8bf088e/spring-data-commons-1.11.4.RELEASE.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-cache/4.2.2/4e17e4c1205ad6d3714bd762251412141509343/httpclient-cache-4.2.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-cache/4.2.2/c244a09f5d186db385f53de920d57daa4d2e35c0/httpclient-cache-4.2.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/aopalliance/aopalliance/1.0/aopalliance-1.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.1.6/2f8eb7a32e215718a7947d5edd1e10d45a498625/grails-web-taglib-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-web-taglib/3.1.6/e0db81bcd1ba13650fa54d23c403fd6004149932/grails-web-taglib-3.1.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/opensymphony/sitemesh/2.4/sitemesh-2.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.0.0/a37794ada34a38747f692e93720c33c451e8a2e/json-path-2.0.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.0.0/26b8555596b3fb9652c1ffe193fa9123945b32cc/json-path-2.0.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-core/2.0.7.RELEASE/c8a387f498e3839fc98d01ef77892610ce375547/reactor-spring-core-2.0.7.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.projectreactor.spring/reactor-spring-core/2.0.7.RELEASE/b1045de1d670cb1b5885221954e8338bf3938ff5/reactor-spring-core-2.0.7.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.goldmansachs/gs-collections/5.1.0/c04f78fcf966737cfcaaed227180014339b582e8/gs-collections-5.1.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.goldmansachs/gs-collections/5.1.0/7114c5349c816ea645b1ea3ffcc21fa073cbabc/gs-collections-5.1.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-taglib/3.1.6/53e61fb3b793d268d599d64f2a8b03134ed0eac0/grails-taglib-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-taglib/3.1.6/3ce04c9cbf70b75178323802c2014c9c05e9328b/grails-taglib-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.minidev/json-smart/2.1.1/45cf5fe4b585af94ba39bfd26ea3c61002072d04/json-smart-2.1.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.minidev/json-smart/2.1.1/922d12fb1f394e2b6999ae0f7936ab13f4dffb81/json-smart-2.1.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.goldmansachs/gs-collections-api/5.1.0/3b76d9d61b891a09d41b24c60d5f6c644a2e2535/gs-collections-api-5.1.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.goldmansachs/gs-collections-api/5.1.0/ea605cdf64cab5fc7b48c99f061d4c8db05b6ff1/gs-collections-api-5.1.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.minidev/asm/1.0.2/5b3717024a5fbe8b4fbac67b93910c3841701cb6/asm-1.0.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.minidev/asm/1.0.2/63900a15f524db0b8c4fb2d9e24c0cb179842ea5/asm-1.0.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/asm/asm/3.3.1/asm-3.3.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/92d6795b502e5194f84c5d1fd05c39800413fe53/netty-3.7.0.Final-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.netty/netty/3.7.0.Final/7a8c35599c68c0bf383df74469aa3e03d9aca87/netty-3.7.0.Final.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-gradle-plugin/3.1.6/b408e0c0c24deb546bbec9420c7eb5a633b2ce1f/grails-gradle-plugin-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-gradle-plugin/3.1.6/a6298e42e8df1af1853e93b063bec8f01b10f7e7/grails-gradle-plugin-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/views-gradle/1.0.10/9e23b2143614cb77e01cbe0305904bb2b45d9b51/views-gradle-1.0.10-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails.plugins/views-gradle/1.0.10/3ca3822f06e433906a0917b78174f67f00723491/views-gradle-1.0.10.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-gradle-model/3.1.6/b2cab0fca80c5dcf0d5c3f269b9e11e04e4aa1dd/grails-gradle-model-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-gradle-model/3.1.6/edaa4e50e8e1930d426906ff77edb6a098b1e7f4/grails-gradle-model-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-shell/3.1.6/e591e33154949d47a748283c9851db9852062bdd/grails-shell-3.1.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.grails/grails-shell/3.1.6/1c3b8d16c38a20b09dbdb078f02e9c956b506195/grails-shell-3.1.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.3.RELEASE/3cfe4ebb15362052741ef658d19802322dd301c2/spring-boot-gradle-plugin-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.3.RELEASE/6311d99b99dfe50ef5b42a2c0eb40b7ade1a135a/spring-boot-gradle-plugin-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.4/37e7780aac43d6a2c643d315f8015c7244d34907/gradle-bintray-plugin-1.4-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.jfrog.bintray.gradle/gradle-bintray-plugin/1.4/c9c2779b543eec72706349967debdeeefd0be46f/gradle-bintray-plugin-1.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.netflix.nebula/gradle-extra-configurations-plugin/2.2.0/ac3d8b0f87a38a3706974bb94855d4c5c81661f7/gradle-extra-configurations-plugin-2.2.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/com.netflix.nebula/gradle-extra-configurations-plugin/2.2.0/9fc509137e6b38f19c8d196aada610ece2c86d8e/gradle-extra-configurations-plugin-2.2.0.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.16/569d5bb30cc0cd3886d6515f404edfe5c9ccabd2/slf4j-simple-1.7.16-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.slf4j/slf4j-simple/1.7.16/f0cacc3d21e1027c82006a7a6f6cf2cad86d2a4f/slf4j-simple-1.7.16.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-component-api/1.0-alpha-33/7d9560effcadf867937ac6885d0d1045ea98ab59/plexus-component-api-1.0-alpha-33.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-jmx/2.4.6/fd471fe882325f923405af591dd7fe97e47649f/groovy-jmx-2.4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy/groovy-jmx/2.4.6/82f0f2e4b77053241b9963072de3719c6ddd732f/groovy-jmx-2.4.6.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.11/jansi-1.11.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/jline/jline/2.12/acb005a73638f26f85504bbeba42e9861e8f9d9f/jline-2.12-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/jline/jline/2.12/ce9062c6a125e0f9ad766032573c041ae8ecc986/jline-2.12.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.5.2.201411120430-r/6fd31c8adc5bb77d95fb385069ff16b30b4c57d8/org.eclipse.jgit-3.5.2.201411120430-r-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.jgit/org.eclipse.jgit/3.5.2.201411120430-r/e134daf385a1688a84c645290956a51168920998/org.eclipse.jgit-3.5.2.201411120430-r.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.gradle/gradle-tooling-api/2.6/bc50ade1f9b6aaf5a13160afe4c202da95301d6f/gradle-tooling-api-2.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.gradle/gradle-tooling-api/2.6/252636c6adc5504cf942a0d3520a3b7399ffdf6c/gradle-tooling-api-2.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-cli/1.3.3.RELEASE/8e3a8a9415cc81c14f93a95785b7e6d0a5dc1587/spring-boot-cli-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-cli/1.3.3.RELEASE/da7b40d7dc002c8a831b42e8fb73b87202dc5add/spring-boot-cli-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.3.RELEASE/6ba8e56d4d17ffc51e120fa3cb3657de9940a555/spring-boot-loader-tools-1.3.3.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.3.RELEASE/9159b2eef91bd8243b63c095621636a6a28f770a/spring-boot-loader-tools-1.3.3.RELEASE.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/f1860181de06236f28f3f247aed57fa4631016d8/http-builder-0.7.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.groovy.modules.http-builder/http-builder/0.7.2/323092cd786480311c1cf693770f9e6fc20a8bef/http-builder-0.7.2.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/1.2-alpha-10/59f31ddb59dfc83b20ef8c5a4c519eff729c38cb/plexus-classworlds-1.2-alpha-10-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.codehaus.plexus/plexus-classworlds/1.2-alpha-10/fc41205635dab152bf794785be80a0a70fda686e/plexus-classworlds-1.2-alpha-10.jar" />
+                            <option value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar" />
+                            <option value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/jcraft/jsch/0.1.50/jsch-0.1.50.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/googlecode/javaewah/JavaEWAH/0.7.9/JavaEWAH-0.7.9.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.6/9cd14a61d7aa7d554f251ef285a6f2c65caf7b65/jopt-simple-4.6-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/4.6/306816fb57cf94f108a43c95731b08934dcae15c/jopt-simple-4.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.json/json/20140107/f53f91bc9c21fef71745450dea5200e423e38370/json-20140107-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.json/json/20140107/d1ffca6e2482b002702c6a576166fd685e3370e3/json-20140107.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/maven/maven-aether-provider/3.2.1/maven-aether-provider-3.2.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/maven/maven-settings-builder/3.1.1/maven-settings-builder-3.1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/eclipse/aether/aether-api/1.0.2.v20150114/aether-api-1.0.2.v20150114.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.aether/aether-connector-basic/1.0.2.v20150114/584c1bc6f2187baa945bcc31dcc17f08916d602d/aether-connector-basic-1.0.2.v20150114-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.aether/aether-connector-basic/1.0.2.v20150114/d55c03b16efc16f25e1fd9fe0f37878fddbeed68/aether-connector-basic-1.0.2.v20150114.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/eclipse/aether/aether-impl/1.0.2.v20150114/aether-impl-1.0.2.v20150114.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/eclipse/aether/aether-spi/1.0.2.v20150114/aether-spi-1.0.2.v20150114.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.aether/aether-transport-file/1.0.2.v20150114/21d67350fd53264934bfdf2d2ed1389890e02d91/aether-transport-file-1.0.2.v20150114-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.aether/aether-transport-file/1.0.2.v20150114/79ffcce2aa9c525ad5a1d0fc3f9669133c3f9572/aether-transport-file-1.0.2.v20150114.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.aether/aether-transport-http/1.0.2.v20150114/48b6aef960f0e821dc01fd00490835b9240a1e8e/aether-transport-http-1.0.2.v20150114-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.eclipse.aether/aether-transport-http/1.0.2.v20150114/262b7fb2e9872f470c059bc4053a3f2f7449932d/aether-transport-http-1.0.2.v20150114.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/eclipse/aether/aether-util/1.0.2.v20150114/aether-util-1.0.2.v20150114.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sf.json-lib/json-lib/2.3/f35340c0a0380141f62c72b76c8fb4bfa638d8c1/json-lib-2.3-jdk15.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.22/88eb858a017e4a4ba762a9968da59ed57fc08898/nekohtml-1.9.22-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/net.sourceforge.nekohtml/nekohtml/1.9.22/4f54af68ecb345f2453fb6884672ad08414154e3/nekohtml-1.9.22.jar" />
+                            <option value="$MAVEN_REPOSITORY$/xml-resolver/xml-resolver/1.2/xml-resolver-1.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.3.1/concurrentlinkedhashmap-lru-1.3.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.maven/maven-model/3.2.1/352f39f23f3df5fcfcfb594c502f82f29492ccf4/maven-model-3.2.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.maven/maven-model/3.2.1/328a3c5cfaf9b2832e6e1d21c76fcefe01e01fde/maven-model-3.2.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.maven/maven-model-builder/3.2.1/5ba2e61d2a9df3ea417572be43b5a96276951440/maven-model-builder-3.2.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.maven/maven-model-builder/3.2.1/48611e08f8d8e967e6df591c8eb9c9eba329b1fc/maven-model-builder-3.2.1.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.maven/maven-repository-metadata/3.2.1/e10765e93b834c21f285a012436caac54f7d5bb9/maven-repository-metadata-3.2.1-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/org.apache.maven/maven-repository-metadata/3.2.1/e171898b9fa61449e1ca3eea45c071fd82c48789/maven-repository-metadata-3.2.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-component-annotations/1.5.5/plexus-component-annotations-1.5.5.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-utils/3.0.17/plexus-utils-3.0.17.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-interpolation/1.19/plexus-interpolation-1.19.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/apache/maven/maven-settings/3.1.1/maven-settings-3.1.1.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.2/53746de93a0b30f346c082074a40c01a6cebdfa7/commons-beanutils-1.9.2-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/commons-beanutils/commons-beanutils/1.9.2/7a87d845ad3a155297e8f67d9008f4c1e5656b71/commons-beanutils-1.9.2.jar" />
+                            <option value="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.4/commons-lang-2.4.jar" />
+                            <option value="$MAVEN_REPOSITORY$/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/af86e59459a503adec5e9b47426dd9fa2ac5f1f6/xercesImpl-2.11.0-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/xerces/xercesImpl/2.11.0/9bb329db1cfc4e22462c9d6b43a8432f5850e92c/xercesImpl-2.11.0.jar" />
+                            <option value="$MAVEN_REPOSITORY$/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/5502da0c4c0a7916a604356ef19394ccfa30cd4b/xml-apis-1.4.01-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/xml-apis/xml-apis/1.4.01/3789d9fada2d3d458c4ba2de349d48780f381ee3/xml-apis-1.4.01.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.6.RELEASE/ead850728464fa3eb062e3a6ce54619cc322dc67/dependency-management-plugin-0.5.6.RELEASE-sources.jar" />
+                            <option value="$PROJECT_DIR$/../../../../tools/gradle-1.11/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.6.RELEASE/b4833216b1cb83ec4a7476ac164843d976f28b4f/dependency-management-plugin-0.5.6.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="grails-rest-solr" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/grails-app/init/grails/rest/solr/Application.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/solr/SolrContext.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/controllers/GsonController.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/views/gson/index.gson" />
+        <option value="$PROJECT_DIR$/src/main/groovy/solr/SpringController.groovy" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="1023" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="groovy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gson" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-rest-solr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="grails-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="recentsLimit" value="5" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15567766" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2002442" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.96" vertical-offset="346" max-vertical-offset="1365">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/services/solr/SearchService.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/init/grails/rest/solr/Application.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/solr/SolrContext.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embeddedsolr/collection1/conf/lang/stemdict_nl.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/controllers/GsonController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.9565217" vertical-offset="0" max-vertical-offset="360">
+          <caret line="3" column="94" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/solr/SpringController.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/views/gson/index.gson">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="17" column="70" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96314496" vertical-offset="1076" max-vertical-offset="1965">
+          <caret line="124" column="10" selection-start-line="124" selection-start-column="10" selection-end-line="124" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+  </component>
+</project>
+
